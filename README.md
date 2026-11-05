@@ -6,10 +6,6 @@
 
 ![Превью проекта](og-preview-v2.png)
 
-> **Автор:** [RoBiN19666](https://github.com/RoBiN19666) · [Telegram](https://t.me/robin19666) · [MIT](LICENSE)
->
-> Сделано с помощью инструмента **DeepSeek**.
-
 ---
 
 ## ✨ Что внутри
